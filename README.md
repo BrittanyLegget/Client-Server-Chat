@@ -2,6 +2,9 @@
 
 This project is client-server chat shell application written in C created as my final project for Oregon State Intro To Computer Networks (CS372).
 
+# System requirements
+- Linux
+
 # How to run
 
 Compile executables
